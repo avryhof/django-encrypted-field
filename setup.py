@@ -26,7 +26,7 @@ setup(
     packages=find_packages(),
     version=version,
     install_requires=[
-        'Django>=4.0',
+        'Django>=3.2',
         'pycryptodomex>=3.12.0'
     ],
     classifiers=[
